@@ -1,6 +1,6 @@
 # Jay Zahiri — Digital Business Card
 
-Live at: https://YOUR-USERNAME.github.io/jml-card
+Live at: [https://YOUR-USERNAME.github.io/jml-card](https://mylawbridge.github.io/jml-jay-card/)
 
 ## How to update
 
